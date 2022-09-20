@@ -1,0 +1,158 @@
+/* conçu et réaliser par UMBA KALOMBO DIEUDONNE */
+/* etudiant en licence 1b à esisalama (RDC)*/
+/*contact: +243 972952246, +243 819016162*/
+/*copyrith  septembre 2022*/
+.container {
+    border: 1px solid;
+}
+
+.bordureRouge {
+    border: 3px solid red;
+    padding: 10px;
+}
+
+.bordureVerte {
+    border: 3px solid green;
+    padding: 10px;
+}
+
+
+.bordureJaune {
+    border: 3px solid yellow;
+    padding: 10px;
+}
+
+
+/* attention ajout*/
+p.p1 {
+    border: 3px solid yellow;
+    padding: 10px;
+    color: rgb(255, 0, 0);
+}
+
+/* ajout pour*/
+.container {
+    border: 3px solid;
+}
+
+.bordureRouge {
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+    background-color: rgb(16, 33, 112);
+    color: aliceblue;
+}
+
+.bordureVerte {
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.bordureBleue {
+    padding: 10px;
+    background-color: rgb(198, 203, 204);
+    border-radius: 15px 15px 15px 15px;
+    text-align: justify;
+    padding: 40px;
+    font-size: large;
+
+}
+.bordureBleue-1{
+    border: 3px solid rgba(215, 230, 233, 0.877);
+    padding: 15px;
+
+}
+
+.bordureJaune {
+    border: 3px solid yellow;
+    padding: 10px;
+}
+
+.bordureOrange {
+    border: 3px solid rgb(255, 255, 255);
+    padding: 10px;
+    background-color: rgb(241, 245, 245);
+}
+.bordureOrange-1 {
+    border: 3px solid rgb(255, 255, 255);
+    padding: 10px;
+    background-color: rgb(241, 245, 245);
+}
+
+a.A1{
+    color:rgb(128, 0, 0); text-decoration : none;
+    text-transform: uppercase;
+    font-weight: bold; 
+    text-align: center;
+
+}
+a.petitLien{
+    color:green; text-decoration : none;
+
+}
+a.lifoot{
+    text-decoration : none;
+    color: rgba(74, 174, 255, 0.815);
+}
+
+.header-0,
+.header-1,
+.header-2,
+.header-3 {
+    min-height: 50px;
+    background-color: rgba(38, 101, 196, 0.884);
+    color: white;
+    font-weight: bold;
+}
+.header-1{
+section-1
+.section-2,
+.section-3 
+}
+    min-height: 12px;
+}
+
+.nav{
+    min-height: 12px;
+    text-indent: 50px;
+}
+
+body{
+    background-color: rgba(215, 230, 233, 0.877);
+}
+
+
+.nav{
+    background-color: rgba(41, 85, 121, 0.911);
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+
+.educ{
+    border: 0px solid yellow;
+    background-color: rgba(38, 101, 196, 0.884);
+    color: white;
+    font-weight: bold;
+}
+.footer-0{
+    background-color: rgba(29, 67, 99, 0.911);
+    padding: 22px;
+    color: white;
+    font-weight: bold;
+    text-align: justify;
+
+}
+
+.der{
+    min-height: 12px;
+    text-indent: 30px;
+    background-color: rgba(0, 70, 223, 0.815);
+    padding: 7px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+/* conçu et réaliser par UMBA KALOMBO DIEUDONNE */
+

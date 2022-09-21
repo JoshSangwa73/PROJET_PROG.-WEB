@@ -34,4 +34,18 @@ _______________________________________________
 VOICI LE RAPPORT DE NOTRE PROJET
 ================================
 
-Dans notre projet nous à utilisez le HTML5 Le CSS3 pour modéliser ou modifier le site d'
+Dans notre projet nous avons utilisé le HTML5 et le CSS ces derniers nous ont permis de stylisés ou de modifier le site d'esis (ECOLE SUPÉRIEUR D'INFORMATIQUE SALAMA) Bien qu'on a modifié le site il nous manqué quelques modifications à apporter au site dans la partie suivante nous vous en dirons plus sur le problème rencontré lors  de la modélisation du site
+
+LES PROBLÈME RENCONTRE
+________________________
+1. Nous n'avons pas pû ajouter le carrousel sur la page d'accueil 
+2. Nous n'avons pas si comment faire pour ajouter le menu de trois barre qui s'adapte au téléphone portable 
+
+NOTRE PROPOSITION PAR RAPPORT AU MODIFICATION DU SITE
+________________________
+
+1. Permettre aux étudiants d'avoir un compte privé d'esis lui permettant d'accéder aux différents services ex. Avoir accès aux cours en ligne comme Openclassrooms, ajouter des quiz pour les étudiants en vu de s'entraîner dans les processus de préparation des examens.
+
+2. Sur le menu A PROPOS DE NOUS ajouter aussi une image du DG et Secrétaire Académique accompagné d'une brève biographie.
+
+Merci pour votre attention
